@@ -1,2 +1,1 @@
-# sujith.github.io
-personal page
+# Personal Portfolio
